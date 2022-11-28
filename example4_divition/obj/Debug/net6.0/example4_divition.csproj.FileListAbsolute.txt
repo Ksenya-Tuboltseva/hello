@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\bin\Debug\net6.0\example4_divition.exe
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\bin\Debug\net6.0\example4_divition.deps.json
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\bin\Debug\net6.0\example4_divition.runtimeconfig.json
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\bin\Debug\net6.0\example4_divition.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\bin\Debug\net6.0\example4_divition.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\obj\Debug\net6.0\example4_divition.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\obj\Debug\net6.0\example4_divition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\obj\Debug\net6.0\example4_divition.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\obj\Debug\net6.0\example4_divition.AssemblyInfo.cs
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\obj\Debug\net6.0\example4_divition.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\obj\Debug\net6.0\example4_divition.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\obj\Debug\net6.0\refint\example4_divition.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\obj\Debug\net6.0\example4_divition.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\obj\Debug\net6.0\example4_divition.genruntimeconfig.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\first lesson\example4_divition\obj\Debug\net6.0\ref\example4_divition.dll
